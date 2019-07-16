@@ -1,5 +1,5 @@
-# Sputnik Messenger tickets
+# Sputnik Messenger Issues
 
-Collecting todos, tickets, feature-requests, bugs for the Sputnik Messenger in one place.
+Collecting issues, todos, feature-requests, bugs for the Sputnik Messenger in one place.
 
 Find more on the [issues](https://github.com/sputnik-messenger/sputnik-messenger-tickets/issues) page.
